@@ -1,7 +1,7 @@
-# Awesome-Devs
+# Awesome-GithubDevs
 
 The list of awesome devs present on github.
-![AwesomeViewers](https://visitor-badge.glitch.me/badge?sunilrai486.awesomedevs=page.id&left_color=green&right_color=red)
+![AwesomeViewers](https://visitor-badge.glitch.me/badge?page_id=sunilrai486.awesomegithubdevs&left_color=green&right_color=red)
 
 1. ()[https://github.com/azure-sdk]. Service account for the Azure SDK Team
 2. ()[https://github.com/rusty1s]. Founding Engineer 🤓 @ kumo.ai - Previously PhD student @ TU Dortmund University
