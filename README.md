@@ -1,7 +1,9 @@
 # Awesome-GithubDevs
 
-The list of awesome devs present on github. A tribute to the awesome developers supporting the Open Source.
 ![AwesomeViewers](https://visitor-badge.glitch.me/badge?page_id=sunilrai486.awesomegithubdevs&left_color=green&right_color=red)
+
+The list of awesome devs present on github. A tribute to the awesome developers supporting the Open Source.
+
 
 1. [ankane](https://github.com/ankane). Creator of [pghero](https://github.com/ankane/pghero), [chartkick](https://github.com/ankane/chartkick), [searchkick](https://github.com/ankane/searchkick), [](https://github.com/ankane/ahoy), [groupdate](https://github.com/ankane/groupdate), [blazer](https://github.com/ankane/blazer), [strong_migrations](https://github.com/ankane/strong_migrations), [pgsync](https://github.com/ankane/pgsync), [the-ultimate-guide-to-ruby-timeouts](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts), [production_rails](https://github.com/ankane/production_rails), [react-chartkick](https://github.com/ankane/react-chartkick), [](https://github.com/ankane/lockbox), [dexter](https://github.com/ankane/dexter), [chartkick.js](https://github.com/ankane/chartkick.js), etc.
 2. [rusty1s](https://github.com/rusty1s). Creator of PyG (PyTorch Geometric) - Founding Engineer @ kumo.ai - PhD student @ TU Dortmund University - Interested in Graph Representation Learning
