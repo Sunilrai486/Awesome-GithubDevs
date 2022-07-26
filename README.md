@@ -55,3 +55,4 @@ The list of awesome devs present on github. A tribute to the awesome developers 
 48. [JamesNK](https://github.com/JamesNK). @Microsoft. Software Developer. Author of Json.NET. Not Batman. Creator of [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json). Json.NET is a popular high-performance JSON framework for .NET
 49. [facundoolano](https://github.com/facundoolano/software-papers). Creator of  google-play-scraper, rpg-cli, software-papers.
 50. [bmorelli25](https://github.com/bmorelli25). @elastic. Maintainer of [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer).
+51. [getify](https://github.com/getify). @Getify Solutions. Writer of [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) & [Functional-Light-JS](https://github.com/getify/Functional-Light-JS). Kyle Simpson is a human first and then an engineer. He's fighting for the people behind the pixels.
