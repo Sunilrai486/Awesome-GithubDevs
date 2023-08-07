@@ -1,6 +1,6 @@
 # Awesome-GithubDevs
 
-![AwesomeViewers](https://visitor-badge.glitch.me/badge?page_id=sunilrai486.awesomegithubdevs&left_color=green&right_color=red)
+![AwesomeViewers](https://komarev.com/ghpvc/?username=sunilrai486awesomegithubdevs&label=Awesome%20viewers&left_color=green&right_color=red&style=flat)
 
 The list of awesome devs present on github. A tribute to the awesome developers supporting the Open Source.
 
@@ -58,3 +58,4 @@ The list of awesome devs present on github. A tribute to the awesome developers 
 51. [getify](https://github.com/getify). @Getify Solutions. Writer of [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) & [Functional-Light-JS](https://github.com/getify/Functional-Light-JS). Kyle Simpson is a human first and then an engineer. He's fighting for the people behind the pixels.
 52. [dodyg](https://github.com/dodyg). @SilverKey Technologies, LLC. I develop primarily using ASP.NET Core, Flutter and Vue.js. Maintainer of [practical-aspnetcore
 ](https://github.com/dodyg/practical-aspnetcore).
+53. [homanp](https://github.com/homanp). @Superagent, Mersenne AB. Creator of Superagent. 🥷 Superagent - Build, deploy, and manage LLM-powered agents
